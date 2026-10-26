@@ -9,6 +9,7 @@ Each assignment is one self-contained Python file that prints its own answers.
 | `hw02.py` | Present value and bond pricing from scratch, plus annualised return, volatility and beta against SPY for three tickers over five years. |
 | `hw03.py` | Two Monte Carlo simulations (conditional probability and an expected payout), then tests whether SPY daily returns are independent by counting directly. Also extends present value to a yearly survival probability. |
 | `hw04.py` | A walk-forward backtester and a strategy built on 1990 to 2011 data, then tested once on 2011 to 2026. |
+| `hw05.py` | Profit at expiry for long and short calls and puts, then a live SPY option chain split into intrinsic and extrinsic value at a one-month and a six-month expiry. |
 
 ## hw04.py, the backtester
 
